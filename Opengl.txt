@@ -1,0 +1,22 @@
+libsdl2-dev
+libglew-dev
+libglm-dev
+
+installed:
+    libdrm-amdgpu1
+    libdrm-common
+    libdrm-nouveau2
+    libdrm-radeon1
+    libdrm2
+    libegl-mesa0
+    libegl1
+    libepoxy0
+    libgl1
+    libgl1-mesa-dri
+    libglu1-mesa
+    libglvnd0
+    libglx-mesa0
+    libglx0
+    libopengl0
+    libvdpau-va-gl1
+    
